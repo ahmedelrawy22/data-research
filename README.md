@@ -48,7 +48,7 @@ Excel/CSV – Data cleaning and preparation
 
 ## 📷 Dashboard Previews
 Jobs Overview
-!(https://github.com/ahmedelrawy22/data-research/blob/main/images/jobs.png)
+![](https://github.com/ahmedelrawy22/data-research/blob/main/images/jobs.png)
 Skills Overview
 
 Company & Industry Overview
