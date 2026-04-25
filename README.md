@@ -47,13 +47,13 @@ Power BI – Dashboard design & visualization
 Excel/CSV – Data cleaning and preparation
 
 ## 📷 Dashboard Previews
-###Jobs Overview
+### Jobs Overview
 ![](https://github.com/ahmedelrawy22/data-research/blob/main/images/jobs.png)
 
-###Skills Overview
+### Skills Overview
 ![](https://github.com/ahmedelrawy22/data-research/blob/main/images/skills.png)
 
-###Company Overview
+### Company Overview
 ![](https://github.com/ahmedelrawy22/data-research/blob/main/images/company.png)
 
 ## 📈 Insights Gained
