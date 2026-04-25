@@ -48,11 +48,11 @@ Excel/CSV – Data cleaning and preparation
 
 ## 📷 Dashboard Previews
 Jobs Overview
-
+![dashboard](https://github.com/ahmedelrawy22/data-research/blob/main/images/JOBS.png)
 Skills Overview
-
+![dashboard](https://github.com/ahmedelrawy22/data-research/blob/main/images/skills.png)
 Company & Industry Overview
-
+![dashboard](https://github.com/ahmedelrawy22/data-research/blob/main/images/company.png)
 ## 📈 Insights Gained
 
 1. Data Engineer is the most in-demand role
