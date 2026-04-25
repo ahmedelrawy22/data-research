@@ -75,4 +75,3 @@ Open it in Power BI Desktop.
 
 Use the slicers (filters) to explore job postings by title, skill, company, size, and year.
 
-📬 Contact
