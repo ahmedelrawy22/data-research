@@ -54,6 +54,7 @@ Skills Overview
 ![](https://github.com/ahmedelrawy22/data-research/blob/main/images/skills.png)
 
 Company & Industry Overview
+![](https://github.com/ahmedelrawy22/data-research/blob/main/images/company.png)
 
 ## 📈 Insights Gained
 
